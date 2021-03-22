@@ -19,3 +19,10 @@
 ✓ 2 fixable problems.
 Try to run: $ textlint --fix [file]
 ```
+
+---
+
+```
+❯ textlint --version
+v11.9.0
+```
