@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "preset-ja-spacing": {
+      "ja-space-around-code": {
+        "before": false,
+        "after": false
+      }
+    }
+  }
+}
